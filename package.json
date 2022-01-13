@@ -1,0 +1,19 @@
+{
+  "name": "test-gh-ucl",
+  "version": "0.0.0",
+  "description": "Test universal component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ovcavila/test-gh-ucl.git"
+  },
+  "author": "Carlos Avila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ovcavila/test-gh-ucl/issues"
+  },
+  "homepage": "https://github.com/ovcavila/test-gh-ucl#readme"
+}
