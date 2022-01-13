@@ -1,5 +1,5 @@
 {
-  "name": "test-gh-ucl",
+  "name": "@ovcavila/test-gh-ucl",
   "version": "0.0.1",
   "repository": "git://github.com:ovcavila/test-gh-ucl.git",
   "dependencies": {
@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
 }
