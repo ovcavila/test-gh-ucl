@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ovcavila/test-gh-ucl/issues"
   },
-  "homepage": "https://github.com/ovcavila/test-gh-ucl#readme"
+  "homepage": "https://github.com/ovcavila/test-gh-ucl#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
 }
